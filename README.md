@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Thawan Bezerra, tenho 22 anos e sou de São Luís, Maranhão. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNDB e estudando PHP e MySQL para me especializar na área de desenvolvimento web.
+Me chamo Thawan Bezerra, tenho 22 anos e sou de São Luís, Maranhão. Formado em Análise e Desenvolvimento de Sistemas na UNDB e estudando PHP e MySQL para me especializar na área de desenvolvimento web.
 
 <p align="left">
     <a href="https://github.com/thawanbezerradev?tab=repositories&sort=stargazers">
